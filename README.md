@@ -16,7 +16,7 @@ TextoHand uses Machine Learning to generate authentic handwriting by introducing
 
 ## Screenshots
 
-![TextoHand Screenshot](https://github.com/pandeyshikhar18/TextoHand/raw/main/screenshots/gui_screenshot.png)
+![TextoHand Screenshot](https://github.com/pandeyshikhar18/TextoHand/assets/Screenshot 2025-08-17 001252.png)
 
 ## Getting Started
 
